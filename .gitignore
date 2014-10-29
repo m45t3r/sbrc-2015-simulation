@@ -1,3 +1,8 @@
+# Swap files
+*.swp
+*~
+
+# Python compiled files
 *.py[cod]
 
 # C extensions
@@ -44,3 +49,7 @@ pyCloudSim
 # Ignore virtualenv related folders
 env
 .pipcache
+
+# Logging folders
+results
+log
