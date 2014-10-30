@@ -32,6 +32,7 @@ class Simulate():
     def __init__(self):
         self.seu          = 1
         self.sffd         = 1
+        self.smbfd        = 1
         self.sksp         = 1
         self.skspmem      = 1
         self.sec          = 1
@@ -47,6 +48,8 @@ class Simulate():
             params += '-seu 1 '
         if self.sffd == 1:
             params += '-sffd 1 '
+        if self.smbfd == 1:
+            params += '-smbfd 1 '
         if self.sksp == 1:
             params += '-sksp 1 '
         if self.skspmem == 1:
