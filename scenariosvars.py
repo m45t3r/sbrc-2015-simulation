@@ -47,8 +47,8 @@ __author__ = "Albert De La Fuente Vigliotti"
 
 algorithm_scenarios = [
     'EnergyUnawareStrategyPlacement',
-    'FirstFitDecreasingPlacement',
     'ModifiedBestFitDecreasingPlacement',
+    'ModifiedBestFitDecreasing2Placement',
     'OpenOptStrategyPlacement',
     'EvolutionaryComputationStrategyPlacement',
     'OpenOptStrategyPlacementMem',
