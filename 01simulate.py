@@ -31,7 +31,7 @@ import time
 class Simulate():
     def __init__(self):
         self.seu          = 1
-        self.sffd         = 0
+        self.sffd         = 1
         self.smbfd        = 1
         self.smbfd2       = 1
         self.sksp         = 1

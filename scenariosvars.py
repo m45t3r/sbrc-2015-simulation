@@ -49,6 +49,7 @@ algorithm_scenarios = [
     'EnergyUnawareStrategyPlacement',
     'ModifiedBestFitDecreasingPlacement',
     'ModifiedBestFitDecreasing2Placement',
+    'FirstFitDecreasingPlacement',
     'OpenOptStrategyPlacement',
     'EvolutionaryComputationStrategyPlacement',
     'OpenOptStrategyPlacementMem',
