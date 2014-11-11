@@ -37,7 +37,7 @@ class Simulate():
         self.sksp         = 1
         self.skspmem      = 1
         self.sec          = 1
-        self.secnet       = 1
+        self.secnet       = 0
         # Not used
         self.skspnetgraph = 0
         self.secnetgraph  = 0

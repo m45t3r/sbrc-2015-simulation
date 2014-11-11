@@ -53,7 +53,7 @@ algorithm_scenarios = [
     'OpenOptStrategyPlacement',
     'EvolutionaryComputationStrategyPlacement',
     'OpenOptStrategyPlacementMem',
-    'EvolutionaryComputationStrategyPlacementNet',
+#    'EvolutionaryComputationStrategyPlacementNet',
 ]
 
 # Setup the scenarios
