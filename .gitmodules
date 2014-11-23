@@ -1,11 +1,10 @@
 [submodule "pyCloudSim"]
 	path = pyCloudSim
-	#url = git@bitbucket.org:vonpupp/pyCloudSim.git
-	url = git@bitbucket.org:thiagomast3r/pyCloudSim.git
+	url = https://github.com/m45t3r/pyCloudSim.git
 	branch = mac5910
 [submodule "planetlab-workload-traces"]
 	path = planetlab-workload-traces
 	url = https://github.com/vonpupp/planetlab-workload-traces.git
 [submodule "google-workload-traces"]
 	path = google-workload-traces
-	url = https://thiagomast3r@bitbucket.org/thiagomast3r/google-workload-traces.git
+	url = https://github.com/m45t3r/google-workload-traces.git
